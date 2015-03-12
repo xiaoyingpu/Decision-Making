@@ -1,53 +1,107 @@
-# Latex specifics
+Skip to content
+ This repository
+Explore
+Gist
+Blog
+Help
+Xiaoying Pu xiaoyingpu
+ 
+2  Watch 
+  Star 0
+  Fork 0
+Beckgor/Demo
+ branch: master  Demo/.gitignore
+BeckgorBeckgor on Aug 17, 2014 Initial commit
+1 contributor
+RawBlameHistory     90 lines (71 sloc)  0.831 kb
+## Core latex/pdflatex auxiliary files:
 *.aux
+*.lof
 *.log
-*.gz
+*.lot
+*.fls
+*.out
+*.toc
+
+## Intermediate documents:
+*.dvi
+# these rules might exclude image files for figures etc.
+# *.ps
+# *.eps
+# *.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
 *.blg
+*-blx.aux
+*-blx.bib
 *.run.xml
+
+## Build tool auxiliary files:
 *.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
 
+## Auxiliary and intermediate files from other packages:
 
-# Editor backup files
-*~
-*.bak
+# algorithms
+*.alg
+*.loa
 
-# Class Files #
-*.class
+# amsthm
+*.thm
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# beamer
+*.nav
+*.snm
+*.vrb
 
-# NetBeans specific #
-nbproject/*
-!nbproject/project.properties
-!nbproject/project.xml
-build/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-nb-configuration.xml
+# glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
 
-# Eclipse configuration files
-# NOTE: If you want to use the Git plugin for Eclipse, then 
-# do NOT exclude .classpath and .project!
-.settings/
-.metadata/
-.classpath
-.project
+# hyperref
+*.brf
 
-# Default Eclipse output directory
-bin/
+# listings
+*.lol
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Trashes
-.Icon?
-ehthumbs.db
-Thumbs.db
+# makeidx
+*.idx
+*.ilg
+*.ind
+*.ist
+
+# minitoc
+*.maf
+*.mtc
+*.mtc0
+
+# minted
+*.pyg
+
+# nomencl
+*.nlo
+
+# sagetex
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+# sympy
+*.sout
+*.sympy
+sympy-plots-for-*.tex/
+
+# todonotes
+*.tdo
+
+# xindy
+*.xdy
+Status API Training Shop Blog About
+© 2015 GitHub, Inc. Terms Privacy Security Contact
