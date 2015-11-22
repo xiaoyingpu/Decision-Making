@@ -4,7 +4,7 @@
 
 
 - Decision-making and stress
-- Implicit bias
+- Implicit bias and IAT 
 - Physiological data and machine learning
 
 _Main Idea:_ 
