@@ -3,7 +3,7 @@
 ## Concepts
 
 
-- Decision-making and stress
+- Decision-making and stress / cognitive resources are limited
   - Psychology research considers cognitive resources to be limited \cite{Hockey1997}. 
   
 > A higher cognitive load can "reduce performance goals" or impose other "behavioral and physiological cost".
