@@ -11,6 +11,7 @@
   - the Android application that
     - get data via bluetooth low energy from Empatica E4
     - send data to FlyLoop via mqtt messages.
+  - Need Android Studio
   
 
 
