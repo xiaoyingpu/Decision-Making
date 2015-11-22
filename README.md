@@ -2,11 +2,13 @@
 
 ## Concepts
 
-### Main Idea
 
 ### Decision-making and stress
 
 ### Physiological computing 
+
+### Main Idea
+
 
 ## Code
 
@@ -27,8 +29,6 @@
     - primary task is to click pictures / make decisions on MouseTracker (see below)
     - secondary task is digit-recall 
   
-
-
 [__MouseTracker__](http://mousetracker.jbfreeman.net): non-opensource, free software developed by John Freeman.  
 
 ## Devices 
@@ -50,6 +50,8 @@
 - `mqtt.bucknell.edu` (134.82.56.50). Maintained by Professor Marchiori. 
 - publish / subscribe 
 
+
+## Experiment set-up
 
 ## More resources
 
