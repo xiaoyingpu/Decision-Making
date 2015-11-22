@@ -1,4 +1,4 @@
-# Decision-Making
+# Decision-Making via Wearable Biosensors
 
 ## Concepts
 
