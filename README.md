@@ -4,7 +4,8 @@
 
 
 - Decision-making and stress
-  - Psychology research considers cognitive resources to be limited \cite{Hockey1997}. A higher cognitive load can ``reduce performance goals'' or impose other ``behavioral and physiological cost''.
+  - Psychology research considers cognitive resources to be limited \cite{Hockey1997}. 
+> A higher cognitive load can "reduce performance goals" or impose other "behavioral and physiological cost".
 - Implicit bias and IAT 
 - Physiological data and machine learning
   - Wearable sensors can stream physiological signals with rich information. Through calibration then classfication, physiological signals can be related to the level of cognitive workload. Heart rate and skin conductance are such signals that wearble sensors like Empatica E4 provide. 
