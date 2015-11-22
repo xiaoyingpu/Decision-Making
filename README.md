@@ -10,7 +10,7 @@
   - the working memory stressor that involves staring at picture stimuli.
 
 
-__ MouseTracker__ : non-opensource, free software developed by a psychologist.  
+__MouseTracker__ : non-opensource, free software developed by a psychologist.  
 
 ## Devices 
 
