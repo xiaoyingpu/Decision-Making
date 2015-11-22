@@ -1,19 +1,4 @@
-Skip to content
- This repository
-Explore
-Gist
-Blog
-Help
-Xiaoying Pu xiaoyingpu
- 
-2  Watch 
-  Star 0
-  Fork 0
-Beckgor/Demo
- branch: master  Demo/.gitignore
-BeckgorBeckgor on Aug 17, 2014 Initial commit
-1 contributor
-RawBlameHistory     90 lines (71 sloc)  0.831 kb
+DS_Store
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
