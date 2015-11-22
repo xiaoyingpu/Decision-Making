@@ -78,4 +78,12 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 
 ### bibtex dump
 
+#### physiological computing overview
+
+#### pretty related
+
+#### stress and other psychology stuff
+
+#### mousetracker
+
 ### Annotated bibliography dump
