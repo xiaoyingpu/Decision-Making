@@ -3,11 +3,11 @@
 ## Concepts
 
 
-### Decision-making and stress
+- Decision-making and stress
+- Implicit bias
+- Physiological computing 
 
-### Physiological computing 
-
-### Main Idea
+_Main Idea:_ 
 
 
 ## Code
