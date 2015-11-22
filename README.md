@@ -10,8 +10,8 @@
 
 - Implicit bias and IAT 
   - implicit bias is bad
-  - can use IAT to characterize
-  - relating implicit bias to cognitive load.
+  - can use IAT to characterize the bias
+  - need to justify: tying implicit bias and cognitive load together
 - Physiological data and machine learning
   - Wearable sensors can stream physiological signals with rich information. Through calibration then classfication, physiological signals can be related to the level of cognitive workload. Heart rate and skin conductance are such signals that wearble sensors like Empatica E4 provide. 
 
