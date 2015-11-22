@@ -10,6 +10,8 @@
   - the working memory stressor that involves staring at picture stimuli.
 
 
+__ MouseTracker__: non-opensource, free software developed by a psychologist.  
+
 ## Devices 
 
 - Empatica E4
@@ -19,6 +21,8 @@
   - for physiological data collection of course
 - Professor Peck's Android phone
   - always turn on Wi-Fi and Bluetooth
+- [Optional] get a Windows computer
+  - MouseTracker needs to run on Windows
 
 
 
