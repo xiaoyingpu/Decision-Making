@@ -8,7 +8,9 @@
 - [n-back](https://gitlab.bucknell.edu/xp002/n-back)
   - the working memory stressor that involves staring at picture stimuli.
 - [empatica_connect](https://gitlab.bucknell.edu/xp002/empatica_connect)  
-  - the Android application that implements in 
+  - the Android application that
+    - get data via bluetooth low energy from Empatica E4
+    - send data to FlyLoop via mqtt messages.
   
 
 
@@ -30,4 +32,5 @@
 
 ## Network dependency
 
-`mqtt.bucknell.edu` (134.82.56.50). Maintained by Professor Marchiori. 
+- `mqtt.bucknell.edu` (134.82.56.50). Maintained by Professor Marchiori. 
+- publish / subscribe 
