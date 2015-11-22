@@ -5,7 +5,7 @@
 
 - Decision-making and stress
 - Implicit bias
-- Physiological computing 
+- Physiological data and machine learning
 
 _Main Idea:_ 
 
