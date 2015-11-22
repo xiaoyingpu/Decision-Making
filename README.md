@@ -12,5 +12,16 @@
 
 ## Devices 
 
+- Empatica E4
+  - the wrist band
+  - crater and USB cord
+  - extra electrodes and the red box
+  - for physiological data collection of course
+- Professor Peck's Android phone
+  - always turn on Wi-Fi and Bluetooth
+
+
 
 ## Network dependency
+
+`mqtt.bucknell.edu` (134.82.56.50). Maintained by Professor Marchiori. 
