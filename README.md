@@ -21,6 +21,7 @@
 - [mouse-tracker-matlab](https://gitlab.bucknell.edu/xp002/mouse-tracker-matlab)
   - MATLAB code from MouseTracker's example folder
   - this repo is not useful; compiling MATLAB into a JAR is not worth the trouble
+  - MATLAB code has been manually translated into Java and included in `dm_task` repository.
 - [dm_task](https://gitlab.bucknell.edu/xp002/mouse-tracker-matlab)
   - decision-making tasks
     - primary task is to click pictures / make decisions on MouseTracker (see below)
