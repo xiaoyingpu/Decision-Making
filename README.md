@@ -81,6 +81,7 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 
 ### Write-ups
 
+- The original proposal
 - Hypotheses
 - Schemas 
 
