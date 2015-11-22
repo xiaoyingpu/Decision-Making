@@ -55,7 +55,12 @@
 
 ## More resources
 
-### Presentation
+### Presentations
+
+- Susquehanna Valley Undergraduate Research Symposium
+  - Oral presentation: ppt 
+- Bucknell Engineering Research Symposium
+  - Poster presentation: pdf
 
 ### bibtex dump
 
