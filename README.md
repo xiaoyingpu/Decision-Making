@@ -7,7 +7,15 @@
 - Implicit bias and IAT 
 - Physiological data and machine learning
 
-_Main Idea:_ 
+
+_Main Idea:_ use physiological data to classify user workload, so as to mitigate the effects of implicit bias in decision-making processes.
+
+## Hypotheses 
+
+- __H0:__ 
+- __H1:__
+- __H2:__
+
 
 
 ## Code
