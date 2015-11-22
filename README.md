@@ -62,6 +62,12 @@
 - Bucknell Engineering Research Symposium
   - Poster presentation: pdf
 
+
+### Write-ups
+
+- Hypotheses
+- Schemas 
+
 ### bibtex dump
 
 ### Annotated bibliography dump
