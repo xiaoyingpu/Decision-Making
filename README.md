@@ -21,8 +21,8 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 ## Hypotheses 
 
 - __H0:__ Physiological signals are “different” under H/L workload induced by n-back.
-- __H1:__
-- __H2:__
+- __H1:__ Decision-making quality is different under H/L workload (by looking at the MouseTracker data)
+- __H2:__ to be continued
 
 
 
