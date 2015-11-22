@@ -95,3 +95,6 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 #### mousetracker
 
 ### Annotated bibliography dump
+
+
+_You can always bug me if you have questions_
