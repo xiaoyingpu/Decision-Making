@@ -51,8 +51,7 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 
 - Empatica E4
   - the wrist band
-  - crater and USB cord
-  - extra electrodes and the red box
+  - crater, USB cord, extra electrodes and the red box
   - for physiological data collection of course
 - Professor Peck's Android phone
   - always turn on Wi-Fi and Bluetooth
