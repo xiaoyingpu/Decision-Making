@@ -20,7 +20,7 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 
 ## Hypotheses 
 
-- __H0:__ 
+- __H0:__ Physiological signals are “different” under H/L workload induced by n-back.
 - __H1:__
 - __H2:__
 
