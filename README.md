@@ -1,5 +1,12 @@
 # Decision-Making
 
+## Concepts
+
+### Main Idea
+
+### Decision-making and stress
+
+### Physiological computing 
 
 ## Code
 
@@ -11,7 +18,13 @@
   - the Android application that
     - get data via bluetooth low energy from Empatica E4
     - send data to FlyLoop via mqtt messages.
-  - Need Android Studio
+- [mouse-tracker-matlab](https://gitlab.bucknell.edu/xp002/mouse-tracker-matlab)
+  - MATLAB code from MouseTracker's example folder
+  - this repo is not useful; compiling MATLAB into a JAR is not worth the trouble
+- [dm_task](https://gitlab.bucknell.edu/xp002/mouse-tracker-matlab)
+  - decision-making tasks
+    - primary task is to click pictures / make decisions on MouseTracker (see below)
+    - secondary task is digit-recall 
   
 
 
@@ -35,3 +48,12 @@
 
 - `mqtt.bucknell.edu` (134.82.56.50). Maintained by Professor Marchiori. 
 - publish / subscribe 
+
+
+## More resources
+
+### Presentation
+
+### bibtex dump
+
+### Annotated bibliography dump
