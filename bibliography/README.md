@@ -53,3 +53,18 @@ __Hindsight:__ paper bit old; still valid?
 --------------------------
 
 ## Report on implicit bias
+
+_State of the Science: Implicit Bias Review 2015_
+
+- p.9
+  - Cognitive control may be impeded by circumstance such as high cognitive load.
+- p.19
+  - .... research that demonstrates the correlation among high levels of cognitive load,s high stress environments and the reliance on automatic or unconscious processes in which stereotypes and unconscious beliefs are more likely to be activated.
+
+- p.21
+  - Implicit association test (IAT)
+  - Trauma surgeons work in high-stress, time constrained, and high mental and physical fatigue environments - environments in which implicit bias can impact judgments and decision-making.
+    - (Haider et. al., 2014) Haider, Adil H., et al. "Association of unconscious race and social class bias with vignette-based clinical assessments by medical students." JAMA 306.9 (2011): 942-951.
+    - In this study, these biases were not statistically significantly associated with clinical decision making.
+- p.66
+  - Engaging in deliberative processing can help counter implicit biases, particularly during situations in which decision-makers may face time constraint or a weighty cognitive load (4 ref's).
