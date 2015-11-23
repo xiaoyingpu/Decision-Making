@@ -3,6 +3,100 @@
 - not all papers are useful
 - below are highlights
 
+## the driving paper
+
+_Solovey, Erin T., et al. "Classifying driver workload using physiological and driving performance data: Two field studies." Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2014._
+
+- Abstract
+   - Cognitive load
+   - Inclusion of physiological data leads to higher classification accuracy
+   - Classifier used across individuals
+
+- Intro
+   - automatic cognitive workload classification
+   - machine learning classification results
+   - with details of the techniques
+   - parameters for recognizing elevated cognitive load
+   - comparing parameters for classification (which one is “better”?)
+   - model training for across individuals
+
+- Related Work
+   - Autonomic nervous system
+      - Sympathetic nervous system (SNS)
+      - Parasympathetic nervous system (PNS)
+   - Electrodermal activity (EDA)
+      - SCL: skin conductance level
+      - SCR: skin conductance response
+
+> Linear discriminant function?
+
+- Classifying driver data for UI evaluation
+   - Preprocessing: manual or automatic cleaning of the input signals
+   - Feature generation and feature selection
+   - Which classification algorithm to use
+
+- Experimental Framework
+   - Machine learning algorithm
+   - Window size
+   - Overlap of windows
+   - Features used
+
+- Secondary Task Procedure
+   - n-back (audio) ~ MIT AgeLab Delayed Digit Recall Task (n-back) REF
+- Validation:
+   - (auditory) perception, cognitive processing involving working memory
+   - has been utilized as a calibration task
+   - consistent, validated, high dosage of cognitive demand
+
+   - Vehicle Equipment and Physiological Sensors
+
+   - Physiological data ~ 250 Hz
+   - EKG
+   - Skin conductance (protocol, protocol, protocol….)
+       - The thin surface, low-profile design of the electrodermal sensors minimize interference….
+- Data Processing
+   - Skin conductance
+      - Filtered using a wavelet transform to remove high frequency noise [29] ~ GAZE
+      - Gross low frequency movement artifact was identified by manual inspection and removed
+- Feature Generation
+   - Labeled dataset built from synchronized sensor data
+   - Sliding window: aggregate attributes over specific time intervals
+   - Each feature computed using a fixed-length sliding window operator
+       - Features
+           - Mean
+           - Standard deviation
+           - Minimum
+           - Maximum
+           - First derivative
+       - For HR, EDA
+       - Sliding window
+           - Window size
+           - Amount of overlap
+
+- Experiment 1: Automatic classification of elevated workload in individual drivers
+
+   - Procedure
+       - Familiarization
+       - 24 task periods of 2-back, 30-second ea.
+       - 90 second recovery and baseline period
+       - Throughout: data were logged
+   - Classification approach and results
+       - Individual classification method
+           - 24 - 30 seconds of elevated cognitive load
+           - 24 - 30 seconds of normal cognitive load (middle of recovery and baseline period)
+       - (Inner)Ten-fold cross-validation
+           - To choose the window size and window overlap TODO
+       - bla bla bla
+   - DISCUSSION
+       - Reasonable accuracy with simple features and classification methods
+       - Training time: too long???? (why??????????TODO)
+
+- Experiment 2: Establishing methods across individuals
+
+   - General classifiers: detect elevated cognitive workload without extensive training on individuals
+   - Goal: find common features and algorithms that are reliable
+   
+============
 
 ## Stress and limited cognitive resource
 
