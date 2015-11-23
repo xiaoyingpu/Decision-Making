@@ -63,7 +63,7 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 ## Network dependency
 
 - `mqtt.bucknell.edu` (134.82.56.50). Maintained by Professor Marchiori. 
-- publish / subscribe 
+- publish / subscribe at various points 
 
 
 ## Experiment
