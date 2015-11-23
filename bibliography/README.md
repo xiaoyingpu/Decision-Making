@@ -4,7 +4,7 @@
 - below are highlights
 
 
-## Stress as limited cognitive resource
+## Stress and limited cognitive resource
 
 
 _Robert, G., and J. Hockey. "Compensatory control in the regulation of human performance under stress and high workload: A cognitive-energetical framework." Biological psychology 45.1 (1997): 73-93._
