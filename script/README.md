@@ -7,8 +7,8 @@ You're in luck! Scripts are in python!
 
 There's also an example android app for this, but,
 
-- mqtt-test.py: captures a specified `topic`
-- 
+* mqtt-test.py: captures a specified `topic`
+ 
 
 ## Visualization
 
