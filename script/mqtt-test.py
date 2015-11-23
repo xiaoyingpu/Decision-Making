@@ -20,5 +20,7 @@ if __name__ == "__main__":
 	client.on_message = on_message
 	#client.connect("broker.mqttdashboard.com")
 	client.connect("mqtt.bucknell.edu")
+	# "#" is the wildcard for all topics
+	# need to subscribe to a specific one
 	client.subscribe("#")
 	client.loop_forever()
