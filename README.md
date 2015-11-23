@@ -87,4 +87,4 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 - Annotated bibliography dump
 
 
-_You can always bug me if you have questions_
+_Message to whomever it may concern: you can always bug me if you have questions_
