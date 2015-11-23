@@ -3,9 +3,10 @@
 
 You're in luck! Scripts are in python!
 
-## Capturing mqtt messages
+## mqtt messages
 
-- `mqtt-test.py`
+- `mqtt-test.py`: captures a specified `topic`
+- 
 
 ## Visualization
 
