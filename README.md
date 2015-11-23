@@ -70,31 +70,21 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 
 ## More resources
 
-### Presentations
-
-- Susquehanna Valley Undergraduate Research Symposium
-  - Oral presentation: ppt 
-- Bucknell Engineering Research Symposium
-  - Poster presentation: pdf
-
-
-### Write-ups
-
-- The original proposal
-- Hypotheses
-- Schemas 
-
-### bibtex dump
-
-#### physiological computing overview
-
-#### pretty related
-
-#### stress and other psychology stuff
-
-#### mousetracker
-
-### Annotated bibliography dump
+- Presentations
+  - Susquehanna Valley Undergraduate Research Symposium
+    - Oral presentation: ppt 
+  - Bucknell Engineering Research Symposium
+    - Poster presentation: pdf
+- Write-ups
+  - The original proposal @ google drive
+  - Hypotheses @ google drive
+  - Schemas @ google drive
+- bibtex dump
+  - physiological computing overview
+  - similar HCI papers
+  - stress and other psychology stuff
+  - misc: mousetracker, etc.
+- Annotated bibliography dump
 
 
 _You can always bug me if you have questions_
