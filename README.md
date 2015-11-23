@@ -66,7 +66,12 @@ _Main Idea:_ use physiological data to classify user workload, so as to mitigate
 - publish / subscribe 
 
 
-## Experiment set-up
+## Experiment
+
+1. Set-up: wire up the subject, check network connections
+1. Calibration: do n-back task while FlyLoop builds the model
+2. Experimentation: do MouseTracker with digit recall task
+
 
 ## More resources
 
