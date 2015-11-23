@@ -3,6 +3,7 @@
 - not all papers are useful
 - below are highlights
 
+
 ## the driving paper
 
 _Solovey, Erin T., et al. "Classifying driver workload using physiological and driving performance data: Two field studies." Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2014._
@@ -95,6 +96,20 @@ _Solovey, Erin T., et al. "Classifying driver workload using physiological and d
 
    - General classifiers: detect elevated cognitive workload without extensive training on individuals
    - Goal: find common features and algorithms that are reliable
+
+
+=============
+
+## IEEE Computer 
+
+Evan M. Peck, Emily Carlin, Robert Jacob, "Designing Brain-Computer Interfaces for Attention-Aware Systems", Computer, vol.48, no. 10, pp. 34-42, Oct. 2015, doi:10.1109/MC.2015.315
+
+
+Sioni, Riccardo, and Luca Chittaro. "Stress Detection Using Physiological Sensors." Computer 10 (2015): 26-33.
+
+
+
+
    
 ============
 
