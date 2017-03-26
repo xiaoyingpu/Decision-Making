@@ -1,6 +1,6 @@
 # Improving Computer-Mediated Decision-Making via Physiological Signals from Wearable Sensors
 
-__The first summer worth of work. This later became The Ugly Me: Detecting our Susceptibility to Implicit Biases using Wearable Computing__
+_The first summer worth of work. This later became The Ugly Me: Detecting our Susceptibility to Implicit Biases using Wearable Computing_
 
 
 For a brief introduction about the project, please see the Wiki of this repo.
